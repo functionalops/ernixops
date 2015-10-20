@@ -1,0 +1,11 @@
+## Nixerl
+
+An implementation of the Nix expression language parser for Erlang.
+
+### Status
+
+Experimental.
+
+### License
+
+Source code in this repository licensed under the BSD 3-clause license.
